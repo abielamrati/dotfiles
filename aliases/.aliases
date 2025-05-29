@@ -3,6 +3,11 @@ alias ll='ls -lha'
 alias gs='git status'
 alias gc='git commit -a -m'
 alias gp='git push'
+
 # Docker
 alias dps='docker ps'
 alias dstop='docker stop'
+
+# Azure
+alias azli='az login'
+alias azlo='az logout'
