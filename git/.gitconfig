@@ -1,0 +1,15 @@
+[user]
+	email = a.elamrati@outlook.com
+	name = Abderrahmane ELAMRATI 
+[init]
+	defaultBranch = main
+
+[core]
+	editor = vim
+
+[alias]
+	st = status
+  	co = checkout
+  	ci = commit
+  	br = branch
+

@@ -1,0 +1,7 @@
+# General
+alias ll='ls -lha'
+alias gs='git status'
+
+# Docker
+alias dps='docker ps'
+alias dstop='docker stop'
