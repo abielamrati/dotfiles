@@ -1,6 +1,7 @@
 # General
 alias ll='ls -lha'
 alias gs='git status'
+alias gc='git commit -a -m'
 
 # Docker
 alias dps='docker ps'
