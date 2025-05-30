@@ -1,5 +1,8 @@
 # ~/.config/starship.toml
 
+# Prerequisites
+# starship & nerdfont https://starship.rs/installing/
+
 # Get editor completions based on the config schema
 "$schema"= 'https://starship.rs/config-schema.json'
 
