@@ -1,7 +1,7 @@
 # General
-alias ll='ls -lha'
+alias ll='ls -larth'
 alias gs='git status'
-alias gc='git commit -a -m'
+alias gc='git commit -am'
 
 # Docker
 alias dps='docker ps'
