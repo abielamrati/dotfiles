@@ -9,3 +9,6 @@ alias python=/usr/bin/python3
 
 # Load aliases
 source ~/.aliases
+
+# Ignore Terraform out of date message
+export CHECKPOINT_DISABLE=1
